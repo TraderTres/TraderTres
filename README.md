@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **4Sisters Store**
-- 🌱 I'm learning **UI design with coding**
-- 💬 Ask me about **Python, JavaScript, Web Development**
+- 🌱 I'm learning **UI design with coding and Web Development**
+- 💬 Ask me about **Python, JavaScript, Web Development, C#, Java, Linux**
 - 📫 How to reach me: **tresjaranilla3@gmail.com**
-- ⚡ Fun fact: **Anything about me**
+- ⚡ Fun fact: **Anything**
 
 ---
 
