@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Willy L. Jaranilla III
+# Hi there! I'm Willy L. Jaranilla III 👋
 
 <div align="center">
   
