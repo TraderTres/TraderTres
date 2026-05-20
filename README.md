@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **4Sisters Store**
+- 🔭 I'm currently working on **Motolectron**
 - 🌱 I'm learning **UI design with coding and Web Development**
 - 💬 Ask me about **Python, JavaScript, Web Development, C#, Java, Linux, SQL**
 - 📫 How to reach me: **tresjaranilla3@gmail.com**
