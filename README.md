@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Motolectron**
-- 🌱 I'm learning **UI design with coding and Web Development**
+- 🌱 I'm learning **Web Development, Software Development, and Mobile Development**
 - 💬 Ask me about **Python, JavaScript, Web Development, C#, Java, Linux, SQL**
 - 📫 How to reach me: **jaranilla.willy03@gmail.com**
 - ⚡ Fun fact: **Anything**
